@@ -32,7 +32,7 @@ The project uses a Haar cascade XML file for training and detecting objects. The
 ![Screenshot 1](https://raw.githubusercontent.com/SyedMuhammadHamzaAli/Weapon-Detection-System/main/Images/Screenshot%20(120).png)
 
 ### Screenshot 2
-![Screenshot 2](https://raw.githubusercontent.com/SyedMuhammadHamzaAli/Weapon-Detection-System/main/Images/Screenshot%20(121).png)
+![Screenshot 2](https://raw.githubusercontent.com/SyedMuhammadHamzaAli/Weapon-Detection-System/main/Images/Screenshot%20(123).png)
 
 ### Screenshot 3
 ![Screenshot 3](https://raw.githubusercontent.com/SyedMuhammadHamzaAli/Weapon-Detection-System/main/Images/Screenshot%20(122).png)
