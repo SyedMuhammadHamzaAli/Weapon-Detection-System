@@ -1,32 +1,32 @@
-# Weapon-Detection-System
-# Overview
+# Weapon-Detection-System 🛡️
+# Overview 📖
 The Weapon Detection System is an AI-powered prototype designed to enhance security by detecting handguns in real-time. By leveraging libraries like OpenCV, Imutils, and NumPy, this project identifies guns in images or video streams using Haar cascade classifiers
 #Objective
 The primary goal of this project is to improve security systems by enabling the detection of firearms through video cameras. Although currently limited to handguns, the project aims to expand its capabilities to detect various types of weapons in diverse environments.
-# Features
+# Features 🎯
 Real-time handgun detection using a webca
 Background subtraction and object classification with Haar cascades.
 Integration with Python libraries for image processing and machine learning.
-# Scope and Applications
-# Scope
+# Scope and Applications 🌍
+# Scope 🔍
 Enhanced security for homes, offices, and public space
 Potential integration into security camera systems for real-time monitoring
-# Applications
+# Applications 🏢
 Home security systems.
 Bank and office surveillance.
 Public safety in crowded areas.
-# Libraries and Tools
+# Libraries and Tools 🛠️
 OpenCV (cv2): Used for computer vision tasks such as object detection and background subtraction.
 NumPy: Facilitates numerical computations for image processing.
 Imutils: Assists with image resizing and rotation.
 Datetime: Adds timestamps to frames.
-# Programming Language and IDE
+# Programming Language and IDE 💻
 Language: Python
 IDE: PyCharm and IDLE Python 3.11 (64-bit)
 
-# Dataset
+# Dataset 📂
 The project uses a Haar cascade XML file for training and detecting objects. The cascade function is trained using numerous positive and negative images, allowing the system to identify handguns effectively.
-## 📷 Output Display
+## Output Display 📷
 
 ### Screenshot 1
 ![Screenshot 1](https://raw.githubusercontent.com/SyedMuhammadHamzaAli/Weapon-Detection-System/main/Images/Screenshot%20(120).png)
