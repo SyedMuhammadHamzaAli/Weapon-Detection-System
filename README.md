@@ -26,6 +26,16 @@ IDE: PyCharm and IDLE Python 3.11 (64-bit)
 
 # Dataset
 The project uses a Haar cascade XML file for training and detecting objects. The cascade function is trained using numerous positive and negative images, allowing the system to identify handguns effectively.
+## 📷 Output Display
+
+### Screenshot 1
+![Screenshot 1](https://raw.githubusercontent.com/SyedMuhammadHamzaAli/Weapon-Detection-System/main/Images/Screenshot%20(120).png)
+
+### Screenshot 2
+![Screenshot 2](https://raw.githubusercontent.com/SyedMuhammadHamzaAli/Weapon-Detection-System/main/Images/Screenshot%20(121).png)
+
+### Screenshot 3
+![Screenshot 3](https://raw.githubusercontent.com/SyedMuhammadHamzaAli/Weapon-Detection-System/main/Images/Screenshot%20(122).png)
  # Installation
  To set up the environment, follow these steps:
  1. Install Python 3.11.
